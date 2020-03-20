@@ -1,0 +1,67 @@
+{
+	"tips": [{
+		"id": 1,
+		"points": 10,
+		"favourited": false,
+		"imageUrl": "",
+		"title": "Versteckte Vitamine. Lass die Schale dran.",
+		"description": "",
+		"tags": ["one", "two", "three"]
+	}, {
+		"id": 2,
+		"points": 10,
+		"favourited": false,
+		"imageUrl": "",
+		"title": "Versteckte Vitamine. Lass die Schale dran.",
+		"description": "",
+		"tags": ["one", "two", "three"]
+	}, {
+		"id": 3,
+		"points": 10,
+		"favourited": false,
+		"imageUrl": "",
+		"title": "Versteckte Vitamine. Lass die Schale dran.",
+		"description": "",
+		"tags": ["one", "two", "three"]
+	}, {
+		"id": 4,
+		"points": 10,
+		"favourited": false,
+		"imageUrl": "",
+		"title": "Versteckte Vitamine. Lass die Schale dran.",
+		"description": "",
+		"tags": ["one", "two", "three"]
+	}, {
+		"id": 5,
+		"points": 10,
+		"favourited": false,
+		"imageUrl": "",
+		"title": "Versteckte Vitamine. Lass die Schale dran.",
+		"description": "",
+		"tags": ["one", "two", "three"]
+	}, {
+		"id": 6,
+		"points": 10,
+		"favourited": false,
+		"imageUrl": "",
+		"title": "Versteckte Vitamine. Lass die Schale dran.",
+		"description": "",
+		"tags": ["one", "two", "three"]
+	}, {
+		"id": 7,
+		"points": 10,
+		"favourited": false,
+		"imageUrl": "",
+		"title": "Versteckte Vitamine. Lass die Schale dran.",
+		"description": "",
+		"tags": ["one", "two", "three"]
+	}, {
+		"id": 8,
+		"points": 10,
+		"favourited": false,
+		"imageUrl": "",
+		"title": "Versteckte Vitamine. Lass die Schale dran.",
+		"description": "",
+		"tags": ["one", "two", "three"]
+	}]
+}
